@@ -1,5 +1,7 @@
 # FlexRadiusBilameThermalExpensionCalculator
 
+![Dot.png](Dot.png)
+
 This script is used to determine the thermal coefficient of a
 bimetalic strip using a picture of the bending radius at a set temperature
 
