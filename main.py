@@ -42,4 +42,9 @@ for center in x:
     # formula for the radius of a curve in a point ()
     radius = (np.polyval(polpprime, center))/pow((1+pow(np.polyval(polprime, center), 2)), 1.5)
     print(radius)
+print("-------------------")
+print("center = 50")
+center = 50
+radius = (np.polyval(polpprime, center))/pow((1+pow(np.polyval(polprime, center), 2)), 1.5)
+print(radius)
 
